@@ -1,4 +1,3 @@
-using System;
 using CivOne.Interfaces;
 
 namespace CivOne
