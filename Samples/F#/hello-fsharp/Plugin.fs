@@ -3,6 +3,11 @@ namespace CivOne
 open CivOne.Interfaces
 
 type Plugin() =
+
+    member this.Name = (this :> IPlugin).Name
+    member this.Author = (this :> IPlugin).Author
+    member this.Version = (this :> IPlugin).Version
+
     interface IPlugin with
         member this.Name: string = "Hello F#!"
         member this.Author: string = "SWY1985"
