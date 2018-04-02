@@ -1,5 +1,3 @@
-using CivOne.Interfaces;
-
 namespace CivOne
 {
     public class Plugin : IPlugin

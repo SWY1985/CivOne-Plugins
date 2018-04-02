@@ -1,7 +1,5 @@
 namespace CivOne
 
-open CivOne.Interfaces
-
 type Plugin() =
 
     member this.Name = (this :> IPlugin).Name

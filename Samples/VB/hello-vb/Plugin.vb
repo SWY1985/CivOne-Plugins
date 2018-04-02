@@ -1,5 +1,3 @@
-Imports CivOne.Interfaces
-
 Public Class Plugin
     Implements IPlugin
 

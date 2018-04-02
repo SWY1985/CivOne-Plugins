@@ -4,6 +4,6 @@
         <RootNamespace>CivOne</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="CivOne.API" Version="0.1.0.1151" /> 
+        <PackageReference Include="CivOne.API" Version="0.1.0.1417" />
     </ItemGroup>
 </Project>
