@@ -2,7 +2,7 @@ namespace CivOne
 {
     public class Plugin : IPlugin
     {
-        public string Name => "Alternate leaders";
+        public string Name => "Cleopatra of Egypt";
 
         public string Author => "SWY1985";
 
